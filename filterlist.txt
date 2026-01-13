@@ -76,6 +76,11 @@ www.reddit.com###search-dropdown-results-container > div:has(svg[icon-name="tren
 www.reddit.com###search-dropdown-results-container > div:has(svg[icon-name="trend"]) ~ *
 ! End of Reddit trending dropdown rules
 
+! Start of nav sidebar rules
+www.reddit.com###flex-nav-collapse-button
+www.reddit.com###flex-left-nav-container
+! End of nav sidebar rules
+
 ! ----- END OF REDDIT FILTERS -----
 
 
